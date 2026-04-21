@@ -1,0 +1,14 @@
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\bin\Debug\net10.0\monthyHallSimulation.exe
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\bin\Debug\net10.0\monthyHallSimulation.deps.json
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\bin\Debug\net10.0\monthyHallSimulation.runtimeconfig.json
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\bin\Debug\net10.0\monthyHallSimulation.dll
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\bin\Debug\net10.0\monthyHallSimulation.pdb
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.AssemblyInfoInputs.cache
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.AssemblyInfo.cs
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.dll
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\refint\monthyHallSimulation.dll
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.pdb
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.genruntimeconfig.cache
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\ref\monthyHallSimulation.dll
