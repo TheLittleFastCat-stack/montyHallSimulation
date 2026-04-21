@@ -12,3 +12,4 @@ C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\r
 C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.pdb
 C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.genruntimeconfig.cache
 C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\ref\monthyHallSimulation.dll
+C:\Users\Aleš Waksmundský\Desktop\git\monthyHallSimulation\obj\Debug\net10.0\monthyHallSimulation.sourcelink.json
