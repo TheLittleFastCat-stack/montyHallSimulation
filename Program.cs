@@ -50,6 +50,9 @@ void readConsole(){
 
 void simulation()
 {   
+    switchingWins = 0;
+    stayWins = 0;
+    
     Console.WriteLine("simulating switching technigue <°?°>: ");
     Console.WriteLine(sampleCount);
 
