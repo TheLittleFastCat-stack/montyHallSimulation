@@ -125,5 +125,7 @@ void displayData()
     Console.WriteLine(switchingWins);
     Console.WriteLine("Wins by staying: ");
     Console.WriteLine(stayWins);
+
+    readConsole();
 }
 
