@@ -4,7 +4,7 @@ String input;
 
 int sampleCount = 0;
 int samplesCompleted = 0;
-
+     
 int carDoor = 0;
 int chosenDoor = 0;
 
@@ -44,7 +44,9 @@ void readConsole(){
             
         }
     }
-    
+    if(input == "n"){
+        System.Environment.Exit(1);
+    }
     
 }
 
