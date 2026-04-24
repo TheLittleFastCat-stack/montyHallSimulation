@@ -58,6 +58,8 @@ void simulation()
     Console.WriteLine("simulating switching technigue <°?°>: ");
     Console.WriteLine(sampleCount);
 
+    samplesCompleted = 0;
+
     while(samplesCompleted < sampleCount)
     {
         carDoor = random.Next(1, 4);
